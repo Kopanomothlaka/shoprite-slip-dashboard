@@ -1,7 +1,7 @@
 
 import { Button } from "@/components/ui/button";
 import { useNavigate } from "react-router-dom";
-import { Receipt, ShoppingCart } from "lucide-react";
+import { Receipt, ShoppingCart, Calendar } from "lucide-react";
 
 const Landing = () => {
   const navigate = useNavigate();
